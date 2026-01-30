@@ -6,7 +6,7 @@
 ## 🎓 Course Information
 
 * **Course:** SE 3317 - Software Design and Architecture
-* **Instructor:** Asst. Prof. Dr. Deniz Özsoyeller
+* **Instructor:** Dr. Deniz Özsoyeller
 * **Institution:** Yaşar University
 * **Language:** Java
 
